@@ -6,12 +6,12 @@
         {
 
         }
-
+        
         public string ShowTime()
         {
             return $"Текущее время: {hour.Amount:0#}:{mins.Amount:0#}";
         }
-
+        
         public string Define()
         {
             if (hour.Amount < 18)

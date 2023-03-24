@@ -3,13 +3,13 @@
     class Hour
     {
         private int amount;
-
+        
         public Hour(int x)
         {
             while (x > 24) x %= 24;
             amount = x;
         }
-
+        
         public int Amount
         {
             get

@@ -1,6 +1,6 @@
 ﻿namespace net_task_3_16
 {
-    public class Minutes
+    class Minutes
     {
         private int amount;
 
