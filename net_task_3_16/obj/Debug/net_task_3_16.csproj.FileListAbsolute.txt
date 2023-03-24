@@ -1,0 +1,7 @@
+D:\C#\net_task_3_16\net_task_3_16\bin\Debug\net_task_3_16.exe
+D:\C#\net_task_3_16\net_task_3_16\bin\Debug\net_task_3_16.pdb
+D:\C#\net_task_3_16\net_task_3_16\obj\Debug\net_task_3_16.csproj.AssemblyReference.cache
+D:\C#\net_task_3_16\net_task_3_16\obj\Debug\net_task_3_16.csproj.SuggestedBindingRedirects.cache
+D:\C#\net_task_3_16\net_task_3_16\obj\Debug\net_task_3_16.csproj.CoreCompileInputs.cache
+D:\C#\net_task_3_16\net_task_3_16\obj\Debug\net_task_3_16.exe
+D:\C#\net_task_3_16\net_task_3_16\obj\Debug\net_task_3_16.pdb
