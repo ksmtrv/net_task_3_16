@@ -10,11 +10,6 @@
             amount = y;
         }
 
-        public Minutes()
-        {
-            amount = 17;
-        }
-
         public int Amount
         {
             get

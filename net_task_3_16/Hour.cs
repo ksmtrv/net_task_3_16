@@ -9,10 +9,6 @@
             while (x > 24) x %= 24;
             amount = x;
         }
-        public Hour()
-        {
-            amount = 7;
-        }
 
         public int Amount
         {

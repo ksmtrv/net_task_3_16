@@ -6,9 +6,9 @@ namespace net_task_3_16
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("часы");
+            Console.WriteLine("Часы --> ");
             int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("минуты");
+            Console.WriteLine("Минуты --> ");
             int y = Convert.ToInt32(Console.ReadLine());
 
             Day day = new Day(x,y);

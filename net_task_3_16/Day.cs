@@ -20,22 +20,21 @@
                 {
                     if (hour.Amount < 6)
                     {
-                        return "Ночь";
+                        return "Время суток: ночь";
                     }
                     else
                     {
-                        return "Утро";
+                        return "Время суток: утро";
                     }
                 }
                 else
                 {
-                    return "День";
+                    return "Время суток: день";
                 }
-
             }
             else
             {
-                return "Вечер";
+                return "Время суток: вечер";
             }
         }
     }
