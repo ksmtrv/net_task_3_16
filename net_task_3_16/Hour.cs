@@ -6,7 +6,7 @@
         
         public Hour(int x)
         {
-            while (x > 24) x %= 24;
+            while (x > 23) x %= 24;
             amount = x;
         }
         
@@ -18,7 +18,7 @@
             }
             set
             {
-                while (value > 24) value %= 24;
+                while (value > 23) value %= 24;
             }
         }
     }
