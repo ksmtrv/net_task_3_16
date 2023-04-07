@@ -10,6 +10,7 @@ namespace net_task_3_16
             int x = Convert.ToInt32(Console.ReadLine());
             Console.Write("Минуты --> ");
             int y = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("----------");
 
             Day day = new Day(x,y);
 
