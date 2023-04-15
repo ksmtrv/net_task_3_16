@@ -6,9 +6,9 @@ namespace net_task_3_16
     {
         static void Main(string[] args)
         {
-            Console.Write("Часы --> ");
+            Console.Write("Hour --> ");
             int x = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Минуты --> ");
+            Console.Write("Minute --> ");
             int y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("----------");
 
